@@ -67,7 +67,7 @@ namespace ModuloAPI
             services.AddTransient<DataBaseContext>();
             services.AddTransient<UsuarioServices>();
             services.AddTransient<TokenService>();
-
+            services.AddTransient<VeiculoServices>();
 
 
         }

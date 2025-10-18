@@ -45,3 +45,4 @@ C:\Users\Luiz Guilherme\source\repos\ModuloAPI\ModuloAPI\bin\Debug\net5.0\Micros
 C:\Users\Luiz Guilherme\source\repos\ModuloAPI\ModuloAPI\bin\Debug\net5.0\Npgsql.dll
 C:\Users\Luiz Guilherme\source\repos\ModuloAPI\ModuloAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Luiz Guilherme\source\repos\ModuloAPI\ModuloAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luiz Guilherme\source\repos\ModuloAPI\ModuloAPI\obj\Debug\net5.0\ModuloAPI.sourcelink.json

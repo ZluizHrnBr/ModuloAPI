@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ModuloAPI.Configuration;
 using ModuloAPI.DTO;
 using ModuloAPI.Entidades;
 using ModuloAPI.Services;
 using System;
+using System.Collections.Generic;
 
 namespace ModuloAPI.Controllers
 {
@@ -13,11 +15,13 @@ namespace ModuloAPI.Controllers
     {
         private readonly UsuarioServices _usuarioService;
         private readonly TokenService _tokenService;
+        private readonly VeiculoServices _veiculoService;
 
-        public VeiculoController(UsuarioServices usuarioServices, TokenService tokenService) 
+        public VeiculoController(UsuarioServices usuarioServices, TokenService tokenService, VeiculoServices veiculoServices) 
         {
             _usuarioService = usuarioServices;
             _tokenService = tokenService;
+            _veiculoService = veiculoServices;
         }
 
 
@@ -39,6 +43,26 @@ namespace ModuloAPI.Controllers
                 throw new Exception("Falha ao gerar token de autenticaçãod de acesso ao usuário " + e);
             }
         
+        }
+
+        [HttpPost("CadastrarVeiculo")]
+        [Authorize(Roles = "administrador")]
+        public Veiculo CadastrarVeiculo([FromBody] VeiculoDTO veiculo)
+        {
+            return _veiculoService.CadastrarVeiculo(veiculo);
+        }
+
+        [HttpDelete("DeletarVeiculo/{Nome_Veiculo}")]
+        [Authorize(Roles = "administrador")]
+        public int DeletarVeiculo(string Nome_Veiculo)
+        {
+            return _veiculoService.DeletarVeiculo(Nome_Veiculo);
+        }
+
+        [HttpGet("ListarVeiculos")]
+        public List<VeiculoDTO> CarregarLista()
+        {
+            return _veiculoService.ListarVeiculos();
         }
     }
 }

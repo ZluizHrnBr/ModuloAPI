@@ -7,7 +7,7 @@ namespace ModuloAPI.Interfaces
     {
         public Veiculo CadastrarVeiculo(VeiculoDTO veiculo);
 
-        public void DeletarVeiculo(string Nome_Veiculo);
+        public int DeletarVeiculo(string Nome_Veiculo);
         
 
     }

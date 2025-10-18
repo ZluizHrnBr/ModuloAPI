@@ -16,6 +16,7 @@ namespace ModuloAPI.Configuration
             var handler = new JwtSecurityTokenHandler();
 
             var key = Encoding.ASCII.GetBytes(KeyConfiguration.PrivateKey);
+           
             var credentials = new SigningCredentials(
                 new SymmetricSecurityKey(key),
                 SecurityAlgorithms.HmacSha256);
