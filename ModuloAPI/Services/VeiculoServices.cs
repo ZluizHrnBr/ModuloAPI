@@ -15,7 +15,9 @@ namespace ModuloAPI.Services
         public VeiculoServices(DataBaseContext context) 
         {
             _context = context;
-        }    
+        }
+
+        
         public Veiculo CadastrarVeiculo(VeiculoDTO veiculo)
         {
             var Veiculo = new Veiculo()
@@ -56,6 +58,22 @@ namespace ModuloAPI.Services
                 .ToList();
 
             return Veiculos;
+        }
+
+
+        public Veiculo AtualizarVeiculo(VeiculoDTO veiculo)
+        {
+            var Veiculo = _context.Veiculos.FirstOrDefault(v => v.Nome_Veiculo == veiculo.Nome_Veiculo);
+
+            if (Veiculo != null)
+            {
+                Veiculo.Marca_Veiculo = veiculo.Marca_veiculo;
+                Veiculo.Ano_Veiculo = veiculo.Ano_Veiculo;
+
+                var salvar = _context.SaveChanges();
+            }
+
+            return Veiculo; 
         }
     }
 }

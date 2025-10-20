@@ -11,12 +11,36 @@
       "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\configuration\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\configuration\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\configuration\\keyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\configuration\\keyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\entidades\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\entidades\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\context\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\context\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\interfaces\\iveiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\interfaces\\iveiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -25,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|c:\\users\\luiz guilherme\\source\\repos\\moduloapi\\moduloapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F746A90C-37B2-481C-BC5D-A053BC2D9A59}|ModuloAPI\\ModuloAPI.csproj|solutionrelative:moduloapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +62,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1456,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Entidades\\Veiculo.cs",
+              "RelativeDocumentMoniker": "ModuloAPI\\Entidades\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Entidades\\Veiculo.cs",
+              "RelativeToolTip": "ModuloAPI\\Entidades\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:49:11.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "ModuloAPI\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "ModuloAPI\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:49:05.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "ModuloAPI\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "ModuloAPI\\Services\\UsuarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:31:33.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Context\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "ModuloAPI\\Context\\DataBaseContext.cs",
+              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Context\\DataBaseContext.cs",
+              "RelativeToolTip": "ModuloAPI\\Context\\DataBaseContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:32:25.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVeiculoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Interfaces\\IVeiculoRepository.cs",
+              "RelativeDocumentMoniker": "ModuloAPI\\Interfaces\\IVeiculoRepository.cs",
+              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Interfaces\\IVeiculoRepository.cs",
+              "RelativeToolTip": "ModuloAPI\\Interfaces\\IVeiculoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:17:54.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ModuloAPI\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "ModuloAPI\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:17:53.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ModuloAPI\\Controllers\\WeatherForecastController.cs",
@@ -50,19 +150,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ModuloAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ModuloAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-18T03:44:37.883Z"
+              "DocumentIndex": 1,
+              "Title": "VeiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Controllers\\VeiculoController.cs",
+              "RelativeDocumentMoniker": "ModuloAPI\\Controllers\\VeiculoController.cs",
+              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Controllers\\VeiculoController.cs",
+              "RelativeToolTip": "ModuloAPI\\Controllers\\VeiculoController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswEkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:36:58.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "VeiculoServices.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Services\\VeiculoServices.cs",
+              "RelativeDocumentMoniker": "ModuloAPI\\Services\\VeiculoServices.cs",
+              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Services\\VeiculoServices.cs",
+              "RelativeToolTip": "ModuloAPI\\Services\\VeiculoServices.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAtwEgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:28:58.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Configuration\\TokenService.cs",
+              "RelativeDocumentMoniker": "ModuloAPI\\Configuration\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Configuration\\TokenService.cs",
+              "RelativeToolTip": "ModuloAPI\\Configuration\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:49:26.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Configuration\\KeyConfiguration.cs",
+              "RelativeDocumentMoniker": "ModuloAPI\\Configuration\\KeyConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Configuration\\KeyConfiguration.cs",
+              "RelativeToolTip": "ModuloAPI\\Configuration\\KeyConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:49:56.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ModuloAPI\\appsettings.json",
@@ -74,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Startup.cs",
               "RelativeDocumentMoniker": "ModuloAPI\\Startup.cs",
@@ -83,31 +221,6 @@
               "ViewState": "AgIAADgAAAAAAAAAAAAuwEUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T03:40:16.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VeiculoController.cs",
-              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Controllers\\VeiculoController.cs",
-              "RelativeDocumentMoniker": "ModuloAPI\\Controllers\\VeiculoController.cs",
-              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Controllers\\VeiculoController.cs",
-              "RelativeToolTip": "ModuloAPI\\Controllers\\VeiculoController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAgwEAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T03:36:58.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VeiculoServices.cs",
-              "DocumentMoniker": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Services\\VeiculoServices.cs",
-              "RelativeDocumentMoniker": "ModuloAPI\\Services\\VeiculoServices.cs",
-              "ToolTip": "C:\\Users\\Luiz Guilherme\\source\\repos\\ModuloAPI\\ModuloAPI\\Services\\VeiculoServices.cs",
-              "RelativeToolTip": "ModuloAPI\\Services\\VeiculoServices.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwDoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T03:28:58.433Z",
-              "EditorCaption": ""
             }
           ]
         },

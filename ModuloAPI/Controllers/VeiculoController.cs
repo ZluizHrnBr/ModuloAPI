@@ -64,5 +64,19 @@ namespace ModuloAPI.Controllers
         {
             return _veiculoService.ListarVeiculos();
         }
+
+        [HttpPut("AtualizarVeiculo")]
+        [Authorize(Roles = "administrador")]
+        public Veiculo AtualizarVeiculo([FromBody] VeiculoDTO veiculo)
+        {
+            try
+            {
+                return _veiculoService.AtualizarVeiculo(veiculo);
+            } catch (Exception e)
+            {
+                throw new Exception("Falha ao tentar atualizar o veículo." + e);
+            }
+           
+        }
     }
 }
